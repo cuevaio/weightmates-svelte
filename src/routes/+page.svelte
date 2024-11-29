@@ -24,7 +24,7 @@
       </a>
       <a
         class="flex h-10 items-center justify-center rounded-full border border-solid border-black/[.08] px-4 text-sm transition-colors hover:border-transparent hover:bg-[#f2f2f2] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] sm:h-12 sm:min-w-44 sm:px-5 sm:text-base"
-        href="https://github.com/cuevaio/weightmates"
+        href="https://github.com/cuevaio/weightmates-svelte"
         target="_blank"
         rel="noopener noreferrer"
       >
